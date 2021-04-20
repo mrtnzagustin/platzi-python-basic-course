@@ -1,3 +1,4 @@
+# Funcion encargada de determinar si una frases es palindromo
 def es_palindromo(frase):
     # Pasamos a minusculas y sacamos los espacios
     frase = frase.lower().replace(" ","")
